@@ -4,7 +4,7 @@ I thought it would be a good idea to learn how to use a HashMap in Java. HashMap
 
 I have been working on improving my abilities in object-oriented programming. I decided to learn Java because the entire language is object oriented. Also, I think learning about Data Structures in different languages teaches a lot about how the programming language works.  
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Whj9YoU5qzU)
 
 # Development Environment
 
