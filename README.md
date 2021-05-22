@@ -31,4 +31,4 @@ Java has some very helpful libraries. Some of the libraries that I used are list
 
 * Read shopping cart items from a file or API.
 * Robust error handling.
-* Add the ability to save the shopping cart.
+* Add the ability to save and load the shopping cart.
